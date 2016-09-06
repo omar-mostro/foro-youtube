@@ -1,3 +1,5 @@
 <?php
-echo "asdadd";
+
+include 'views/index/index.php';
+
 ?>
